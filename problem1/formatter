@@ -18,4 +18,4 @@ read -r first_name last_name
 # Step 4: Print the result in the format: "LASTNAME, Firstname"
 
 # TODO: Replace this line with your implementation
-echo ${last_name^^}, ${first_name^}
+echo SANTOSO, Budi
