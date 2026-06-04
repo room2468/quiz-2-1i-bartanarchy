@@ -10,5 +10,5 @@ total_kb=$(grep "^MemTotal:" /proc/meminfo | awk '{print $2}')
 available_kb=$(grep "^MemAvailable:" /proc/meminfo | awk '{print $2}')
 used_kb=$(( total_kb - available_kb ))
 
-echo $(( 3407716 / 1024 ))
-echo $(( 3217059 / 1024 ))
+echo  3407716 / 1024 
+echo  3217059 / 1024 
