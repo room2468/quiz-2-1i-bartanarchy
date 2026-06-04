@@ -1,4 +1,3 @@
-1906576
 #!/bin/bash
 # Reads real memory information from the current system and outputs two numbers:
 #   Line 1: total RAM in MB
