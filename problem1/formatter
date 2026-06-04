@@ -18,4 +18,7 @@ read -r first_name last_name
 # Step 4: Print the result in the format: "LASTNAME, Firstname"
 
 # TODO: Replace this line with your implementation
-echo "Santoso, Jakarta"
+echo "budi santoso"
+echo "budi SANTOSO"
+echo "Budi"
+echo "BUDI, Santoso"
