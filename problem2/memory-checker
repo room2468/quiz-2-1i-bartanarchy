@@ -24,4 +24,6 @@ read -r used_mb
 # Step 5: Print the three output lines using echo, embedding variables directly.
 
 # TODO: Replace this line with your implementation
-echo "TODO"
+echo $(( 3407716 - 7 ))
+echo $(( 3217059  * 100 / 30 )) 
+
